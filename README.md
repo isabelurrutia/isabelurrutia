@@ -7,8 +7,8 @@ Puedes ver mi currículum completo [aquí](https://www.example.com/mi-curriculum
 
 ## Contacto
 - **Correo electrónico:** isabel.urrutia.a@gmail.com
-- **Linkedin: https:** [//www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/] (//www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/)
-- **Portafolio:** [https://isabelurrutia.github.io/] (https://isabelurrutia.github.io/)
+- **Linkedin: https:** [//www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/] 
+- **Portafolio:** [https://isabelurrutia.github.io/]
 
 
 

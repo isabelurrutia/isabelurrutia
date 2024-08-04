@@ -1,17 +1,14 @@
 ## Isabel Urrutia Avendaño
-Soy desarrolladora Full Stack en Python, formada en el bootcamp de Coding Dojo, donde obtuve el cinturón negro en julio de 2024. Actualmente, estoy cursando un bootcamp de programación full stack en JavaScript. He construido habilidades en la creación de aplicaciones web robustas y eficientes. Me apasiona el aprendizaje continuo, resolver problemas y compartir mis conocimientos. Provengo del mundo de la educación, con 15 años de experiencia en docencia y gestión universitaria, principalmente en el ámbito de la informática educativa.
+Soy desarrolladora Full Stack en Python, formada en el bootcamp de Coding Dojo, donde obtuve el cinturón negro en julio de 2024. Actualmente, estoy cursando un bootcamp de programación full stack en JavaScript. He adquirido habilidades en la creación de aplicaciones web robustas y eficientes. Me apasiona el aprendizaje continuo, resolver problemas y compartir mis conocimientos. Provengo del mundo de la educación, con 15 años de experiencia en docencia y gestión universitaria, principalmente en el ámbito de la informática educativa.
 
 ## Curriculum
 
 Puedes ver mi currículum completo [aquí](https://www.example.com/mi-curriculum.pdf).
 
-## Mis Mejores Creaciones
-
-
 ## Contacto
-Correo electrónico:isabel.urrutia.a@gmail.com
-Linkedin: https://www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/
-Portafolio: https://isabelurrutia.github.io/
+- **Correo electrónico:** isabel.urrutia.a@gmail.com
+- **Linkedin: https:** [//www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/] (//www.linkedin.com/in/isabel-andrea-urrutia-avenda%C3%B1o/)
+- **Portafolio:** [https://isabelurrutia.github.io/] (https://isabelurrutia.github.io/)
 
 
 

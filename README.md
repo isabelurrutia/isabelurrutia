@@ -5,7 +5,7 @@ Soy desarrolladora Full Stack en Python, formada en el bootcamp de Coding Dojo, 
 
 ## Curriculum
 
-Puedes ver mi currículum completo [aquí](https://www.example.com/mi-curriculum.pdf).
+Puedes ver mi currículum completo [aquí](https://1drv.ms/b/s!AkUGQCiTEZ3Fid1BXN51ayoduXORnA?e=1VfNxK).
 
 ## Contacto
 - **Correo electrónico:** isabel.urrutia.a@gmail.com
